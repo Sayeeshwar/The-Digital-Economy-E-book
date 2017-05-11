@@ -1,0 +1,31 @@
+body {background-image:url(../Images/mac.jpeg);
+background-repeat: repeat-y;
+background-attachment:fixed;}
+
+ul{
+        padding: 0;
+        list-style: none;
+		
+    }
+    ul li{
+        float: right;
+        width: 100px;
+        text-align: center;
+		margin-right:40px;
+
+    }
+	
+
+a.boom {text-decoration:underline;font-family:Segoe UI;color:white;}
+
+a {font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif; color:white; text-decoration:none;}
+
+a:hover{ background-color:green;font-family:Segoe UI }
+
+nav{width:20%; float:left; border: 2px solid white; font-family:Segoe UI; text-align:left;margin-top:61px; line-height:35px; padding-bottom:20px; position:fixed; padding-left:10px;}
+
+ul.hello {font-size: 15px; text-align:left; list-style-type:none;}
+
+section{ width: 73%; float:right; border: 2px solid white; font-family:Segoe UI;text-align:justify; margin-right:20px;margin-top:40px; padding:10px; color:white; font-size:18px;}
+
+header {border: 2px solid white; color:white; font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif; text-align:center;}
